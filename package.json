@@ -1,5 +1,5 @@
 {
-  "name": "hello-weapp",
+  "name": "weapp-demo",
   "version": "1.2.8",
   "description": "",
   "main": "dist/app.js",
